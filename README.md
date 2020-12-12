@@ -4,9 +4,9 @@ This is my first published plugin
 Config:
 pinata:
   is_enabled: true
-  # A percentage chance to become a Pinata
+   A percentage chance to become a Pinata
   chance: 50
-  # How many items the Pinata will contain (max 8)
+   How many items the Pinata will contain (max 8)
   item_amount: 8
   # A hint message that will be desplayed to Pinata (leave empty to disable)
   hint_message: You have became the Pinata!
@@ -21,7 +21,7 @@ pinata:
   - Scp173
   - Scp93953
   - Scp93989
-  # List of avabile items which Pinata can contain:
+   List of avabile items which Pinata can contain:
   items:
   - Adrenaline
   - KeycardJanitor
