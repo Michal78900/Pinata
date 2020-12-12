@@ -71,7 +71,7 @@ pinata:
   - Painkillers
   - Coin
   
-  | Command | Description |
+  | Name | Type | Description
 | --- | --- |
 | git status | List all new or modified files |
 | git diff | Show file differences that haven't been staged |
