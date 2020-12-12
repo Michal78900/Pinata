@@ -1,7 +1,7 @@
 # Pinata
 This is my first published plugin
 
-Config:
+# Config:
 pinata:
   is_enabled: true
    A percentage chance to become a Pinata
