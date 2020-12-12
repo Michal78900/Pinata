@@ -71,6 +71,11 @@ pinata:
   - Painkillers
   - Coin
   
- | Name | Type | Description |
-| --- | --- | --- |
-| is_enabled | bool | Is the plugin is enabled (defealt: true) |
+ | Name | Type | Description | Default |
+| --- | --- | --- | --- |
+| is_enabled | bool | Is the plugin enabled | true |
+| chance |  |  |  |
+| chance |  |  |  |
+| chance |  |  |  |
+| chance |  |  |  |
+| chance |  |  |  |
