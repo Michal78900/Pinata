@@ -73,5 +73,4 @@ pinata:
   
  | Name | Type | Description |
 | --- | --- | --- |
-| git status | List all new or modified files | . |
-| git diff | Show file differences that haven't been staged | . |
+| is_enabled | bool | Is the plugin is enabled (defealt: true) |
