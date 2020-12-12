@@ -1,5 +1,5 @@
 # Pinata
-This is my first published plugin
+This is my first published plugin. I need to get used to GitHub.
 
 # Config:  
 | Name | Type | Description | Default |
