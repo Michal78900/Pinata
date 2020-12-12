@@ -8,11 +8,11 @@ pinata:
   chance: 50
    How many items the Pinata will contain (max 8)
   item_amount: 8
-  # A hint message that will be desplayed to Pinata (leave empty to disable)
+   A hint message that will be desplayed to Pinata (leave empty to disable)
   hint_message: You have became the Pinata!
-  # Duration of the hint messeage
+   Duration of the hint messeage
   hint_duration: 5
-  # List of SCPs that can become Pinata:
+   List of SCPs that can become Pinata:
   s_c_p_roles:
   - Scp049
   - Scp0492
